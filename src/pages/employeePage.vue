@@ -20,6 +20,7 @@
         <v-text-field 
             v-model="post"
             label="Должность"
+            readonly="true"
             />
         <v-text-field
             v-model="salary"
